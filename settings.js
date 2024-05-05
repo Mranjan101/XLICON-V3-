@@ -50,25 +50,25 @@ global.location = process.env.GL_INFO || "Sabzazar" //ur location
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || '✪★⃝ꪶ‎ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷𖥘✪➺' //ur bot name
+global.botname = process.env.BOT_NAME || '〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '' //ur owner number
+global.ownernumber = process.env.SUDO || '919883457657' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || '✪★⃝ꪶ‎ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷𖥘✪➺' //ur owner name
+global.ownername = process.env.SUDO_NAME || '〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || ""
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/CTeFLk3XrB6BbQR7dR9Ed2"
+global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/HBf3zvaGyRaEfMZlKgUSPV"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
-global.wm = process.env.GL_WM || "© ✪★⃝ꪶ‎ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷𖥘✪➺"
+global.wm = process.env.GL_WM || "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'https://chat.whatsapp.com/CTeFLk3XrB6BbQR7dR9Ed2' //script link
+global.botscript = process.env.GL_SC || 'https://chat.whatsapp.com/HBf3zvaGyRaEfMZlKgUSPV' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "✪★⃝ꪶ‎ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷𖥘✪➺"
+global.packname = process.env.PACK_NAME || "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY ✪★⃝ꪶ‎ 𝗥𝘂𝗱𝗿𝗮𝗿𝗮𝗷𖥘✪➺"
+global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY ✪★⃝ꪶ‎ 〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»"
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || "919883457657@s.whatsapp.net"
 //________________________________________________________________________________________________________
